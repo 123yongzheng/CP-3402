@@ -1,0 +1,12 @@
+In this practical, I successfully set up a local development environment and ran both Joomla and WordPress sites with a MySQL database. I used **MAMP** for Joomla and **LocalWP** for WordPress, configuring **phpMyAdmin** for database management. My Joomla site runs at `http://localhost:8888/joomla/`, while the WordPress site is managed through LocalWP.  
+
+During the process, I encountered and resolved several challenges, including database connection issues in Joomla and plugin conflicts in WordPress. I also customized themes and installed necessary extensions/plugins to enhance functionality.  
+
+This setup allows me to develop and test changes locally before deploying the sites to production on **SiteGround**. Moving forward, I will continue refining the sites, ensuring smooth migration, and exploring additional hosting configurations.  
+
+### **Next Steps:**  
+- Optimize Joomla and WordPress functionality.  
+- Test deployment to SiteGround.  
+- Ensure database and content migration work smoothly.  
+
+This practical helped me strengthen my understanding of local development and deployment strategies.
